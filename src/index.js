@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import UserForm from '../src/components/userForm/userForm';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+ReactDOM.render(<UserForm />, document.getElementById('root'));
+
+// setTimeout(() => {
+//    ReactDOM.unmountComponentAtNode(document.getElementById('root'));}, 10000);

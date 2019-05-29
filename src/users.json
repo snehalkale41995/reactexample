@@ -1,0 +1,35 @@
+
+[
+{
+"Id": 1,
+"Name" :"Snehal Kale",
+"Email" :"snehal.kale@g.com",
+"Contact" : 9890802150,
+"Address" : "pune",
+"Designation" : "employee"
+},
+{
+"Id": 2,
+"Name" :"Arkita Toshniwal",
+"Email" :"arki.tosh@g.com",
+"Contact" : 8600456789,
+"Address" : "mumbai",
+"Designation" : "engineer"
+},
+{
+"Id": 3,
+"Name" :"Mrunal Rithe",
+"Email" :"mrunal@g.com",
+"Contact" : 7896787878,
+"Address" : "pune",
+"Designation" : "employee"
+},
+{
+"Id": 4,
+"Name" :"Sandeep Singh",
+"Email" :"sandeep.singh@g.com",
+"Contact" : 9087656789,
+"Address" : "mumbai",
+"Designation" : "actor"
+}
+]
